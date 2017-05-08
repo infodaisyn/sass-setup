@@ -1,0 +1,12 @@
+rules:
+  indentation:
+    - 2
+    -
+      size: 4
+  leading-zero: false
+
+  no-duplicate-properties:
+    - 1
+    -
+      exclude:
+        - src
